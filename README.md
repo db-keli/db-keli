@@ -16,7 +16,7 @@
 
 📫 Feel free to reach out to me at kekelidompeh@gmail.com .
 
-##💻 I enjoy coding and working on projects that involve these areas.
+## 💻 I enjoy coding and working on projects that involve these areas.
 
 ## 👀 Check out my GitHub to see some of my work and feel free to reach out to collaborate!
 
