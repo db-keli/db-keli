@@ -6,7 +6,12 @@
 
 ## 🧠 Machine Learning is not the only one! Also,
 - I am a robotics tutor at Aaenics Engineering LTD, leading students in IoT projects with the arduino and programming in C
-- I am very conversant with programming languages Python, C, C++ and Matlab.
+- I am very conversant with LabVIEW and Matlab.
+
+## Programming Languages:
+- Python
+- C++
+- C
 
 ## 🌱 Currently, 
 - I'm learning ML 
