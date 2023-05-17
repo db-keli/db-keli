@@ -15,7 +15,7 @@
 
 🌱 Currently, 
 - I'm learning ML 
-- Learning Data Science
+- An ALX SE student
 - I'm Building Robotics Projects with the Arduino
 
 🤝 I'm open to collaborating on open-source projects and writing tech articles.
