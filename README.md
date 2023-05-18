@@ -2,7 +2,7 @@
 
 👋 Hi there !!!!! I'm Kekeli
 
-👨 I'm a Self Taught Machine Learning Engineer passionate about building autonomous models to help increase productivity and make work easier.
+👨 I'm a self learning computer programmer passionate about building autonomous models to help increase productivity and make work easier.
 
 🧠 Machine Learning is not the only one! Also,
 - I am a robotics tutor at Aaenics Engineering LTD, leading students in IoT projects with the arduino and programming in C
@@ -28,4 +28,4 @@
 
 👀 Check out my GitHub to see some of my work and feel free to reach out to collaborate!
 
-🥂 Cheers!
+🥂 
