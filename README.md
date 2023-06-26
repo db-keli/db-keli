@@ -30,4 +30,4 @@
 
 🥂 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekeli-the-light&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidleitw&hide=Jupyter Notebook)
