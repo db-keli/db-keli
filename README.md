@@ -29,3 +29,5 @@
 👀 Check out my GitHub to see some of my work and feel free to reach out to collaborate!
 
 🥂 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekeli-the-light&theme=tokyonight)
