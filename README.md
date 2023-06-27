@@ -25,6 +25,7 @@ I am also robotics tutor at Aaenics Engineering LTD, leading students in IoT pro
 <img align="left" alt="Seaborn" width="50px" style="padding-right:10px;"  src ="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" />
 <br>
 <br>
+<br>
 
 ### 🔭 Currently, 
 - Studying Machine Learning
@@ -44,11 +45,12 @@ I am also robotics tutor at Aaenics Engineering LTD, leading students in IoT pro
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kekeli-the-light&theme=gruvbox&border_radius=4.5) -->
 
 #
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekeli-the-light&hide=jupyter%20notebook&layout=compact)](https://github.com/kekeli-the-light)
 
 ### 👀 Check out my GitHub to see some of my work and feel free to reach out to collaborate!
 
 ### 🥂 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekeli-the-light&hide=jupyter%20notebook&layout=compact)](https://github.com/kekeli-the-light)
+
 
 [Twitter]: https://twitter.com/_kekeliii
