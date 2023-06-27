@@ -1,7 +1,6 @@
 
 
-# 👋 Hi there !!!!! I'm Kekeli
-
+# 👋 Hi there !!!!! <br> My name is Dompeh Kofi Bright
 👨🏾‍💻 I'm a self learning computer programmer passionate about building autonomous models to help increase productivity and make the world a better place.
 
 ### 🧠 Machine Learning is not the only one! Also,
