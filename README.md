@@ -2,10 +2,13 @@
 
 # 🥷🏾 Dompeh Kofi Bright
 **`Machine Learning/Software(Developer)`**
-### 👨🏾‍💻
-I am a self studying machine learning engineer<br>
-I am also robotics tutor at Aaenics Engineering LTD, leading students in IoT projects with the arduino and programming in C.
-<br>I work on personal projects to show case my skills, solve real world problems and make my self a better engineer. 
+I am a young passionate developer working on personal projects to show case my skills, solve real world problems and make my self a better engineer. 
+
+<h2> </h2>
+
+### 🌱 Currently, 
+- Studying Machine Learning
+- A Software Engineering Student at ALX
 
 <h2> </h2>
 
@@ -60,8 +63,13 @@ As I continue to learn and grow, my passion for technology remains unwavering. D
 
 ### 👀 Check out my GitHub to see some of my work and feel free to reach out to collaborate!
 
-### 🥂 
+<h2> </h2>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/kekeliii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fiifi baisie amoah" height="30" width="40" /></a>
+<a href="https://twitter.com/_kekeliii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anon_xen8" height="30" width="40" /></a>
+<a href="https://discord.gg/2934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2533" height="30" width="40" /></a>
+</p>
+<div align="center">
 
-
-[Twitter]: https://twitter.com/_kekeliii
