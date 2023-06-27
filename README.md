@@ -37,10 +37,18 @@ I am also robotics tutor at Aaenics Engineering LTD, leading students in IoT pro
 
       📫 Feel free to reach out to me at kekelidompeh@gmail.com .
 
-### 💻 I enjoy coding and working on projects that involve these areas.
+### 📊 Stats
+
+![Kekeli's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekeli-the-light&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kekeli-the-light&theme=gruvbox&border_radius=4.5) -->
+
+#
 
 ### 👀 Check out my GitHub to see some of my work and feel free to reach out to collaborate!
 
 ### 🥂 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekeli-the-light&hide=jupyter%20notebook&layout=compact)](https://github.com/kekeli-the-light)
+
+[Twitter]: https://twitter.com/_kekeliii
