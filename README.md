@@ -1,17 +1,20 @@
 
 
-# 👋 Hi there !!!!! <br> My name is Dompeh Kofi Bright
+# 👋 Hi there !!!!! <br> I'm Dompeh Kofi Bright
 👨🏾‍💻 I'm a self learning computer programmer passionate about building autonomous models to help increase productivity and make the world a better place.
 
-### 🧠 Machine Learning is not the only one! Also,
-- I am a robotics tutor at Aaenics Engineering LTD, leading students in IoT projects with the arduino and programming in C
-- I am very conversant with LabVIEW and Matlab.
+### 🧠
+- I am a self learning machine learning engineer<br>
+I am also robotics tutor at Aaenics Engineering LTD, leading students in IoT projects with the arduino and programming in C
+and a software engineering student. I work on personal projects to show case my skills, solve real world problems and make my self a better engineer. 
 
-### 💼 My Stack:
-* Python 
-* C++
-* C
-* Shell
+### 💼  Languages and Tools
+
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 ### 🔭 Currently, 
 - Studying Machine Learning
