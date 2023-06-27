@@ -22,7 +22,7 @@ I am also robotics tutor at Aaenics Engineering LTD, leading students in IoT pro
 <img align="left" alt="Scikit-learn" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png">
 <img align="left" alt="Matplotlib" width="50px" style="padding-right:10px;"  src ="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
 <img align="left" alt="Seaborn" width="50px" style="padding-right:10px;"  src ="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" />
-<br><br><br><br>
+<br><br><br><br><br><br>
 <details>
  <summary><h3>👨‍💻 Bright's Coding Journey</h3></summary>
       From a young age, my fascination with technology led me to join the robotics team in high school. It was there that I discovered my passion for programming and embarked on a journey of exploration and learning. Eager to delve deeper, I ventured into the realm of Linux and Unix, familiarizing myself with their intricacies. With a particular affinity for robotics and Arduino programming, I found myself naturally gravitating towards C++ and C, honing my skills in this versatile language.
