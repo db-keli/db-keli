@@ -25,7 +25,7 @@
 <h2> </h2>
 
 <details>
- **<summary><h3>👨‍💻 Bright's Coding Journey</h3></summary>**
+  <summary><h3>👨‍💻 Bright's Coding Journey</h3></summary>
       From a young age, my fascination with technology led me to join the robotics team in high school. It was there that I discovered my passion for programming and embarked on a journey of exploration and learning. Eager to delve deeper, I ventured into the realm of Linux and Unix, familiarizing myself with their intricacies. With a particular affinity for robotics and Arduino programming, I found myself naturally gravitating towards C++ and C, honing my skills in this versatile language.
 As my knowledge and enthusiasm grew, I chose to pursue a degree in electrical and electronics engineering, where I could immerse myself in the exciting world of IoT. Fuelled by a desire to broaden my horizons, I independently embarked on a journey of self-learning in machine learning, recognizing its immense potential in shaping the future of technology.
 Recognizing the importance of well-rounded expertise, I also enrolled in a software engineering program, determined to strengthen my abilities in designing robust and efficient software solutions. This dual focus on hardware and software provides me with a comprehensive understanding of the intricate interplay between the two, equipping me with the tools to tackle complex technological challenges.
