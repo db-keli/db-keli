@@ -1,10 +1,9 @@
 
 
 # 🥷🏾 Dompeh Kofi Bright
-I'm a self learning computer programmer passionate about building autonomous models to help increase productivity and make the world a better place.
-
+**`Machine Learning/Software(Developer)`**
 ### 👨🏾‍💻
-I am a self learning machine learning engineer<br>
+I am a self studying machine learning engineer<br>
 I am also robotics tutor at Aaenics Engineering LTD, leading students in IoT projects with the arduino and programming in C.
 <br>I work on personal projects to show case my skills, solve real world problems and make my self a better engineer. 
 
