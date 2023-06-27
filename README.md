@@ -20,8 +20,9 @@ I am also robotics tutor at Aaenics Engineering LTD, leading students in IoT pro
 <img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Matlab" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img align="left" alt="Pandas" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png">
-<img align="left" alt="Bash" width="50px" style="padding-right:10px;"  src ="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
+<img align="left" alt="Scikit-learn" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png">
+<img align="left" alt="Matplotlib" width="50px" style="padding-right:10px;"  src ="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
+<img align="left" alt="Matplotlib" width="50px" style="padding-right:10px;"  src ="https://seeklogo.com/images/S/seaborn-logo-97023602C9-seeklogo.com.png" />
 <br>
 <br>
 
