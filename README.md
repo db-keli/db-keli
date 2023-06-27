@@ -22,6 +22,7 @@ I am also robotics tutor at Aaenics Engineering LTD, leading students in IoT pro
 <img align="left" alt="Scikit-learn" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png">
 <img align="left" alt="Matplotlib" width="50px" style="padding-right:10px;"  src ="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
 <img align="left" alt="Seaborn" width="50px" style="padding-right:10px;"  src ="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" />
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br><br><br><br><br><br>
 <details>
  <summary><h3>👨‍💻 Bright's Coding Journey</h3></summary>
