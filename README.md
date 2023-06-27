@@ -36,9 +36,9 @@ As I continue to learn and grow, my passion for technology remains unwavering. D
 - A Software Engineering Student at ALX
 - Building Robotics Projects with the Arduino
 
-### 🤝 I'm open to collaborating on open-source projects and writing tech articles.
+###### 🤝 I'm open to collaborating on open-source projects and writing tech articles.
 
-### 👷🏾 I'm an electrical engineering student, expanding my knowledge in these fields .
+###### 👷🏾 I'm an electrical engineering student, expanding my knowledge in these fields .
 
       📫 Feel free to reach out to me at kekelidompeh@gmail.com .
 
