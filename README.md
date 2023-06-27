@@ -69,7 +69,7 @@ As I continue to learn and grow, my passion for technology remains unwavering. D
 <p align="left">
 <a href="https://kaggle.com/kekeliii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fiifi baisie amoah" height="30" width="40" /></a>
 <a href="https://twitter.com/_kekeliii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anon_xen8" height="30" width="40" /></a>
-<a href="https://discord.gg/2934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2533" height="30" width="40" /></a>
+<a href="https://discord.gg/kekeli#2934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2533" height="30" width="40" /></a>
 </p>
 <div align="center">
 
