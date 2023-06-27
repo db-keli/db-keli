@@ -45,7 +45,7 @@ As I continue to learn and grow, my passion for technology remains unwavering. D
 
 ###### 👷🏾 I'm an electrical engineering student, expanding my knowledge in these fields .
 
-      📫 Feel free to reach out to me at kekelidompeh@gmail.com .
+📮 Feel free to reach out to me at kekelidompeh@gmail.com 
 
 <h2> </h2>
 
