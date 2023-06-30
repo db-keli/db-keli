@@ -6,8 +6,7 @@
 
 <h2> </h2>
 
-### 🌱 Currently, 
-- Learning Data Structures and Algorithms
+🌱 Currently learning Data Structures and Algorithms
 
 <h2> </h2>
 
@@ -36,10 +35,10 @@ As I continue to learn and grow, my passion for technology remains unwavering. D
 
 <h2> </h2>
 
-### 🔭 Currently, 
-- Studying Machine Learning
-- A Software Engineering Student at ALX
-- Building Robotics Projects with the Arduino
+### 🔭 Long term studies, 
+- Machine Learning
+- Software Engineering Student at ALX
+- Robotics with Arduino
 
 <h2> </h2>
 
