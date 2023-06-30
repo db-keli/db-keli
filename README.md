@@ -35,16 +35,16 @@ As I continue to learn and grow, my passion for technology remains unwavering. D
 
 <h2> </h2>
 
-### 🔭 Long term studies, 
+### 🔭 Long term studies
 - Machine Learning
 - Software Engineering Student at ALX
 - Robotics with Arduino
 
 <h2> </h2>
 
-###### 🤝 I'm open to collaborating on open-source projects and writing tech articles.
+🤝 I'm open to collaborating on open-source projects and writing tech articles.
 
-###### 👷🏾 I'm an electrical engineering student, expanding my knowledge in these fields .
+👷🏾 I'm an electrical engineering student, expanding my knowledge in these fields .
 
 📮 Feel free to reach out to me at kekelidompeh@gmail.com 
 
