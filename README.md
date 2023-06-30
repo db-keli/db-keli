@@ -2,13 +2,12 @@
 
 # 🥷🏾 Dompeh Kofi Bright(Kekeli)
 **`Aspirant Software Developer`**
-<br>I am a young passionate developer working on personal projects to show case my skills, solve real world problems and make my self a better engineer. 
+<br>I am a young passionate developer learning hard, working on personal projects to show case my skills, solve real world problems and make my self a better engineer. 
 
 <h2> </h2>
 
 ### 🌱 Currently, 
-- Studying Machine Learning
-- A Software Engineering Student at ALX
+- Learning Data Structures and Algorithms
 
 <h2> </h2>
 
