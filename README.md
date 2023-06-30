@@ -1,7 +1,7 @@
 
 
 # 🥷🏾 Dompeh Kofi Bright(Kekeli)
-**`Machine Learning/Software(Developer)`**
+**`Aspirant Software Developer`**
 <br>I am a young passionate developer working on personal projects to show case my skills, solve real world problems and make my self a better engineer. 
 
 <h2> </h2>
