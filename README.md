@@ -38,8 +38,8 @@ As I continue to learn and grow, my passion for technology remains unwavering. D
 
 ### 🔭 Long term studies
 - Machine Learning
-- Software Engineering Student at ALX
-- Robotics with Arduino
+- Software Engineering 
+- IoT
 
 <h2> </h2>
 
