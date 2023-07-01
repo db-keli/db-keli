@@ -2,7 +2,7 @@
 
 # Dompeh Kofi Bright
 **`Aspirant Software Engineer`**
-<br>I am a young passionate developer learning hard, working on personal projects to show case my skills, solve real world problems and make my self a better engineer. 
+<br>I am a young passionate developer who's learning hard, working on personal projects to show case my skills, solving real world problems and making my self a better engineer. 
 
 <h2> </h2>
 
