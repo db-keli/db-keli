@@ -1,6 +1,6 @@
 
 
-# 🥷🏾 Dompeh Kofi Bright(Kekeli)
+# Dompeh Kofi Bright
 **`Aspirant Software Engineer`**
 <br>I am a young passionate developer learning hard, working on personal projects to show case my skills, solve real world problems and make my self a better engineer. 
 
