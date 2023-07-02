@@ -1,8 +1,8 @@
 
 
-# Dompeh Kofi Bright
+# Kekeli
 **`Aspirant Software Engineer`**
-<br>I am a young passionate developer who's learning hard, working on personal projects to show case my skills, solving real world problems and making my self a better engineer. 
+<br>Learning hard, working on projects.
 
 <h2> </h2>
 
@@ -39,7 +39,7 @@ As I continue to learn and grow, my passion for technology remains unwavering. D
 ### 🔭 Long term studies
 - Machine Learning
 - Software Engineering 
-- IoT
+- Robotics
 
 <h2> </h2>
 
@@ -61,7 +61,7 @@ As I continue to learn and grow, my passion for technology remains unwavering. D
 
 <h2> </h2>
 
-### 👀 Check out my GitHub to see some of my work and feel free to reach out to collaborate!
+👀 Check out my GitHub to see some of my work and feel free to reach out to collaborate!
 
 <h2> </h2>
 
