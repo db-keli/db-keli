@@ -1,5 +1,3 @@
-
-
 # Kekeli
 **`Aspirant Software Engineer`**
 <br>Learning hard, working on projects.
