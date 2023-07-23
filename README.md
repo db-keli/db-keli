@@ -4,7 +4,7 @@
 
 <h2> </h2>
 
-🌱 Currently learning Data Structures and Algorithms | HTML and CSS
+🌱 Currently learning, HTML and CSS | Windows Powershell
 
 <h2> </h2>
 
