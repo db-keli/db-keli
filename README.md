@@ -3,9 +3,6 @@
 
 **`Aspirant Software Engineer`**
 <br>Learning hard, working on projects.
-
-<h2> </h2>
-
 🌱 Currently learning, HTML and CSS | Windows Powershell
 
 <div align="center">
