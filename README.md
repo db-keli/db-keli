@@ -32,6 +32,7 @@
 <img align="left" alt="Sympy" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sympy_logo.svg/1200px-Sympy_logo.svg.png" />
 <img align="left" alt="Scipy" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png" />
 <br><br><br>
+<br>
 
 <!-- <details>
   <summary><h3>👨‍💻 Bright's Coding Journey</h3></summary>
