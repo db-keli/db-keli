@@ -22,6 +22,7 @@ My Bag 💼
 <br><br><br><br><br><br>
 <h2> </h2>
 
+<!--
 <details>
   <summary><h3>👨‍💻 Bright's Coding Journey</h3></summary>
       From a young age, my fascination with technology led me to join the robotics team in high school. It was there that I discovered my passion for programming and embarked on a journey of exploration and learning. Eager to delve deeper, I ventured into the realm of Linux and Unix, familiarizing myself with their intricacies. With a particular affinity for robotics and Arduino programming, I found myself naturally gravitating towards C++ and C, honing my skills in this versatile language.
@@ -29,6 +30,7 @@ As my knowledge and enthusiasm grew, I chose to pursue a degree in electrical an
 Recognizing the importance of well-rounded expertise, I also enrolled in a software engineering program, determined to strengthen my abilities in designing robust and efficient software solutions. This dual focus on hardware and software provides me with a comprehensive understanding of the intricate interplay between the two, equipping me with the tools to tackle complex technological challenges.
 As I continue to learn and grow, my passion for technology remains unwavering. Driven by curiosity and a relentless desire to innovate, I am eager to contribute to the ever-evolving landscape of technology, creating solutions that harness the power of machine learning, IoT, and software engineering. With a solid foundation in robotics, programming, and an insatiable thirst for knowledge, I am poised to make a significant impact in the tech industry, shaping a future where technology seamlessly integrates into our lives. <br>
 </details>
+-- >
 
 <h2> </h2>
 
