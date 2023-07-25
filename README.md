@@ -1,7 +1,6 @@
 # Kekeli
-<img src = "https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
-
 **`Aspirant Software Engineer`**
+<img src = "https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 <br>
 - 📖 Loves to learn new things.
 - 💡 Loves to make cool stuff.
