@@ -1,7 +1,9 @@
-# Kekeli
-<img src = "https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
-**`Aspirant Software Engineer`**
+Kekeli
 <br>
+**`Aspirant Software Engineer`**
+
+<img src = "https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+
 - 📖 Loves to learn new things.
 - 💡 Loves to make cool stuff.
 - 🌱 Currently learning HTML and CSS | Windows Powershell
