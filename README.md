@@ -22,7 +22,7 @@
 As my knowledge and enthusiasm grew, I chose to pursue a degree in electrical and electronics engineering, where I could immerse myself in the exciting world of IoT. Fuelled by a desire to broaden my horizons, I independently embarked on a journey of self-learning in machine learning, recognizing its immense potential in shaping the future of technology.
 Recognizing the importance of well-rounded expertise, I also enrolled in a software engineering program, determined to strengthen my abilities in designing robust and efficient software solutions. This dual focus on hardware and software provides me with a comprehensive understanding of the intricate interplay between the two, equipping me with the tools to tackle complex technological challenges.
 As I continue to learn and grow, my passion for technology remains unwavering. Driven by curiosity and a relentless desire to innovate, I am eager to contribute to the ever-evolving landscape of technology, creating solutions that harness the power of machine learning, IoT, and software engineering. With a solid foundation in robotics, programming, and an insatiable thirst for knowledge, I am poised to make a significant impact in the tech industry, shaping a future where technology seamlessly integrates into our lives. <br>
-</details> -
+</details> -->
 
 🤝 I'm open to collaborating on open-source projects and writing tech articles.
 
