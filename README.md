@@ -1,6 +1,5 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png)
-Kekeli
-<br>
+### K E K E L I
 **`Aspirant Software Engineer`**
 - 📖 Loves to learn new things.
 - 💡 Loves to make cool stuff.
