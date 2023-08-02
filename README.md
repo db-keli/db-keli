@@ -4,7 +4,7 @@ Kekeli
 **`Aspirant Software Engineer`**
 - 📖 Loves to learn new things.
 - 💡 Loves to make cool stuff.
-- 🌱 Currently learning HTML and CSS | Windows Powershell
+- 🌱 Currently learning HTML and CSS
 - 🤝 I'm open to collaborating on open-source projects and writing tech articles.
 - 📮 Feel free to reach out to me at kekelidompeh@gmail.com 
   
