@@ -1,9 +1,7 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png)
 Kekeli
 <br>
 **`Aspirant Software Engineer`**
-
-<img src = "https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
-
 - 📖 Loves to learn new things.
 - 💡 Loves to make cool stuff.
 - 🌱 Currently learning HTML and CSS | Windows Powershell
