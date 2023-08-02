@@ -42,7 +42,8 @@ As I continue to learn and grow, my passion for technology remains unwavering. D
 
 <!--[Kekeli's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekeli-the-light&show_icons=true&theme=gruvbox)--> 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=db-keli&theme=light&border_radius=4.5) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=db-keli&hide=mathematica,jupyter%20notebook,matlab&layout=compact&theme=light)](https://github.com/db-keli)
+![GitHub Streak](https://streak-stats.demolab.com?user=db-keli&theme=light&border_radius=4.5) 
+![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=db-keli&langs_count=8&layout=compact&hide=scss,makefile,ruby,jupyter%20notebook,mathematica,less)
 
 <h2> </h2>
 
