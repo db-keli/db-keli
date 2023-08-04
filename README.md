@@ -3,7 +3,7 @@
 **`Aspirant Software Engineer`**
 - 📖 I'm an electrical engineer but CS is home.
 - 💡 I love to learn new stuff, I cherish knowledge.
-- 🌱 Currently learning HTML and CSS.
+- 🌱 Currently learning DSA and django.
 - 🤝 I'm open to collaborating on open-source projects and writing tech articles.
 - 📮 Feel free to reach out to me at kekelidompeh@gmail.com. 
   
