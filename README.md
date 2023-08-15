@@ -1,46 +1,34 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png)
-### K E K E L I
-**`Aspirant Software Engineer`**
-- 📖 I'm an electrical engineer but CS is home.
-- 💡 I love to learn new stuff, I cherish knowledge.
-- 🌱 Currently learning DSA and django.
-- 🤝 I'm open to collaborating on open-source projects and writing tech articles.
-- 📮 Feel free to reach out to me at kekelidompeh@gmail.com. 
-  
-  <!-- <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f684938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/> -->
+<p align="left"><h3>K E K E L I</h3></p>
 
+**`Aspirant Software Engineer`**
+
+- 📖 I'm an electrical engineer but CS is home.
+  
+- 💡 I love to learn new stuff, I cherish knowledge.
+  
+- 🌱 Currently learning DSA and django.
+  
+- 🤝 I'm open to collaborating on open-source projects and writing tech articles.
+  
+- 📮 Feel free to reach out to me at kekelidompeh@gmail.com. 
+
+    
 # Programming Languages & Stack 
 
-<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
-<img align="left" alt="Powershell" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" /> 
-<img align="left" src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
-<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /> 
-<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="HTML" width='30' src="https://icon-library.com/images/icon-html/icon-html-1.jpg" />
-<img align="left" src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> 
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> 
-<img align="left" alt="Numpy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-<img align="left" alt="Arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-<img align="left" alt="Matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /> 
-<img align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> 
-<img align="left" alt="Scikit-learn" width="30px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> 
-<img align="left" alt="Matplotlib" width="30px" src ="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
-<img align="left" alt="Seaborn" width="30px" src ="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" /> 
-<img align="left" alt="Sympy" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sympy_logo.svg/1200px-Sympy_logo.svg.png" />
-<img align="left" alt="Scipy" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png" />
-<br><br><br>
-
-<!-- <details>
-  <summary><h3>👨‍💻 Bright's Coding Journey</h3></summary>
-      From a young age, my fascination with technology led me to join the robotics team in high school. It was there that I discovered my passion for programming and embarked on a journey of exploration and learning. Eager to delve deeper, I ventured into the realm of Linux and Unix, familiarizing myself with their intricacies. With a particular affinity for robotics and Arduino programming, I found myself naturally gravitating towards C++ and C, honing my skills in this versatile language.
-As my knowledge and enthusiasm grew, I chose to pursue a degree in electrical and electronics engineering, where I could immerse myself in the exciting world of IoT. Fuelled by a desire to broaden my horizons, I independently embarked on a journey of self-learning in machine learning, recognizing its immense potential in shaping the future of technology.
-Recognizing the importance of well-rounded expertise, I also enrolled in a software engineering program, determined to strengthen my abilities in designing robust and efficient software solutions. This dual focus on hardware and software provides me with a comprehensive understanding of the intricate interplay between the two, equipping me with the tools to tackle complex technological challenges.
-As I continue to learn and grow, my passion for technology remains unwavering. Driven by curiosity and a relentless desire to innovate, I am eager to contribute to the ever-evolving landscape of technology, creating solutions that harness the power of machine learning, IoT, and software engineering. With a solid foundation in robotics, programming, and an insatiable thirst for knowledge, I am poised to make a significant impact in the tech industry, shaping a future where technology seamlessly integrates into our lives. <br>
-</details> -->
-
-<!--[Kekeli's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekeli-the-light&show_icons=true&theme=gruvbox)--> 
+<p align="left">
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" alt="c" width="40" height="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="c" width="40" height="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="html" width="40" height="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" width="40" height="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/django.svg" alt="django" width="40" height="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/AIML/scikit.svg" alt="scikit" width="40" height="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="git" width="40" height="40"/>
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="linux" width="40" height="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/arduino.svg" alt="arduino" width="40" height="40"/>
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/bash.svg" alt="Bash" width="40" height="40"/></p>
 
 <h2> </h2>
 
