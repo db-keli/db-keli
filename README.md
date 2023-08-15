@@ -18,12 +18,15 @@
 
 <p align="left">
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="django" width="40" height="40"/>
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" alt="c" width="40" height="40"/>
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="c" width="40" height="40"/>
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="html" width="40" height="40"/>
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" width="40" height="40"/>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="html" width="40" height="40"/>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="css" width="40" height="40"/>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40">
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/django.svg" alt="django" width="40" height="40"/>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="40" height="40"/>
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/AIML/scikit.svg" alt="scikit" width="40" height="40"/>
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="git" width="40" height="40"/>
     <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="linux" width="40" height="40"/>
