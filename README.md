@@ -2,17 +2,11 @@
 <p align="left"><h3>K E K E L I</h3></p>
 
 **`Aspirant Software Engineer`**
-
-- 📖 I'm an electrical engineer but CS is home.
-  
-- 💡 I love to learn new stuff, I cherish knowledge.
-  
-- 🌱 Currently learning DSA and django.
-  
-- 🤝 I'm open to collaborating on open-source projects and writing tech articles.
-  
-- 📮 Feel free to reach out to me at kekelidompeh@gmail.com. 
-
+  - 📖 I'm an electrical engineer but CS is home.
+  - 💡 I love to learn new stuff, I cherish knowledge.
+  - 🌱 Currently learning DSA and django.
+  - 🤝 I'm open to collaborating on open-source projects and writing tech articles.
+  - 📮 Feel free to reach out to me at kekelidompeh@gmail.com. 
     
 # Programming Languages & Stack 
 
@@ -42,9 +36,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/kekeliii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kekeli" height="30" width="40" /></a>
-<a href="https://twitter.com/_kekeliii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anon_xen8" height="30" width="40" /></a>
-<a href="https://discord.gg/kekeli#2934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2533" height="30" width="40" /></a>
+<a href="https://twitter.com/_kekeliii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kekeli" height="30" width="40" /></a>
 </p>
 <div align="center">
 
