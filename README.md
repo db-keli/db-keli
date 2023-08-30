@@ -1,4 +1,4 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png)
+<!--![](https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png)-->
 <p align="left"><h3>K E K E L I</h3></p>
 
 **`Aspirant Software Engineer`**
