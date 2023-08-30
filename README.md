@@ -1,5 +1,5 @@
 <!--![](https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png)-->
-<p align="left"><h3>K E K E L I</h3></p>
+#### Hey there!👋🏾I'm Bright
 
 **`Aspirant Software Engineer`**
   - 📖 I'm an electrical engineer but CS is home.
@@ -7,9 +7,8 @@
   - 🌱 Currently learning DSA and django.
   - 🤝 I'm open to collaborating on open-source projects and writing tech articles.
   - 📮 Feel free to reach out to me at kekelidompeh@gmail.com. 
-    
-# Programming Languages & Stack 
-
+#### Programming Languages & Stack 
+<h2></h2>
 <p align="left">
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/>
   <img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="django" width="40" height="40"/>
