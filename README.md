@@ -1,4 +1,3 @@
-<!--![](https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png)-->
 #### Hey there!👋🏾I'm Bright
 
 **`Aspirant Software Engineer`**
@@ -38,5 +37,4 @@
 <p align="left">
 <a href="https://twitter.com/_kekeliii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kekeli" height="30" width="40" /></a>
 </p>
-<div align="center">
 
