@@ -1,6 +1,6 @@
 ### Hey there! I'm Bright
-**`Software Engineer`**
+**`Software Developer`**
 
 
 <p align="center">
-  <h3>👨🏾‍🍳
+  <h3>at a personal dojo 🥋
