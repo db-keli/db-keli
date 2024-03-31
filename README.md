@@ -1,6 +1,6 @@
 ### Hey there! I'm Kekeli
-**`Software Developer`**
+**`SWE`**
 
 
 <p align="center">
-  <h3>at a personal dojo 🥋
+  <h3>at a personal dojo 🥋</h3>
