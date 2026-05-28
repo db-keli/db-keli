@@ -2,5 +2,27 @@ technology is my art.</br>
 I am a systems minded engineer focused on designing scalable, high-performant, and reliable software.</br>
 Some in-production systems I've designed and built:
 
-* [LuceHR](https://lucehr.com) at [lucelabs](https://lucelabs.org)
-* [procusMeet](https://procusmeet.lucelabs.org)
+
+<table width="1200px" cellspacing="0" cellpadding="0">
+<tr>
+<td width="600px" valign="top">
+  
+**Project**
+
+<!-- recent_projects starts -->
+• [LuceHR](https://lucehr.com) — HR Management System<br>
+• [procusMeet](https://procusmeet.lucelabs.org) — High-performant scheduling and video conferencing<br>
+<!-- recent_projects ends -->
+</td>
+<td width="600px" valign="top">
+  
+**Design Document**
+
+<!-- design_docs starts -->
+• - <br>
+• - <br>
+<!-- design_docs ends -->
+</td>
+</tr>
+</table>
+
