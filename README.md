@@ -11,7 +11,7 @@ Some in-production systems I've designed and built:
 
 <!-- recent_projects starts -->
 • [LuceHR](https://lucehr.com) — HR Management System<br>
-• [procusMeet](https://procusmeet.lucelabs.org) — High-performant scheduling and video conferencing<br>
+• [procusMeet](https://procus.lucelabs.org) — High-performant scheduling and video conferencing<br>
 <!-- recent_projects ends -->
 </td>
 <td width="600px" valign="top">
