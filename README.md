@@ -25,4 +25,7 @@ Some in-production systems I've designed and built:
 </td>
 </tr>
 </table>
+</br>
 
+I'm currently learning and building around performance engineering and paying attention to what code does on hardware </br>
+checkout some of [my blogs](https://kekelidompeh.com/posts)
