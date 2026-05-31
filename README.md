@@ -12,7 +12,7 @@ Some in-production systems I've designed and built:
 <!-- recent_projects starts -->
 • [luceHR](https://lucehr.com) — HR Management System<br>
 • [procusMeet](https://procus.lucelabs.org) — Scheduling and video conferencing<br>
-• [kelvin - 0.2.0](https://kelv.kekelidompeh.com) — Terminal password manager<br>
+• [kelvin](https://kelv.kekelidompeh.com) — (v0.2.0)Terminal password manager<br>
 <!-- recent_projects ends -->
 </td>
 <td width="600px" valign="top">
