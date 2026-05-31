@@ -10,8 +10,9 @@ Some in-production systems I've designed and built:
 **Project**
 
 <!-- recent_projects starts -->
-• [LuceHR](https://lucehr.com) — HR Management System<br>
-• [procusMeet](https://procus.lucelabs.org) — High-performant scheduling and video conferencing<br>
+• [luceHR](https://lucehr.com) — HR Management System<br>
+• [procusMeet](https://procus.lucelabs.org) — Scheduling and video conferencing<br>
+• [kelvin - 0.2.0](https://kelv.kekelidompeh.com) — Terminal password manager<br>
 <!-- recent_projects ends -->
 </td>
 <td width="600px" valign="top">
@@ -21,6 +22,7 @@ Some in-production systems I've designed and built:
 <!-- design_docs starts -->
 • - <br>
 • - [procusmeet design doc 1.0](https://kekelidompeh.com/post/procusmeet_design_doc.md)<br>
+• - <br>
 <!-- design_docs ends -->
 </td>
 </tr>
