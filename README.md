@@ -21,7 +21,7 @@ Some in-production systems I've designed and built:
 
 <!-- design_docs starts -->
 • - <br>
-• - [procusmeet design doc 1.0](https://kekelidompeh.com/post/procusmeet_design_doc.md)<br>
+• - [procusmeet design doc 1.0](https://kekelidompeh.com/post/procumeet-design)<br>
 • - <br>
 <!-- design_docs ends -->
 </td>
