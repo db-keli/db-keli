@@ -13,6 +13,7 @@ Some in-production systems I've designed and built:
 • [luceHR](https://lucehr.com) — HR Management System<br>
 • [procusMeet](https://procus.lucelabs.org) — Scheduling and video conferencing<br>
 • [kelvin](https://kelv.kekelidompeh.com) — (v0.2.0)Terminal password manager<br>
+• [moringa](https://github.com/db-keli/moringa) — reading app >>> ios books app<br>
 <!-- recent_projects ends -->
 </td>
 <td width="600px" valign="top">
@@ -22,6 +23,7 @@ Some in-production systems I've designed and built:
 <!-- design_docs starts -->
 • - <br>
 • - [procusmeet design doc 1.0](https://kekelidompeh.com/post/procumeet-design)<br>
+• - <br>
 • - <br>
 <!-- design_docs ends -->
 </td>
